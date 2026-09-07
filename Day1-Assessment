@@ -1,0 +1,17 @@
+Day 1: Assessment
+
+TestCase-1
+
+1. Launch SauceDemo.
+2. Login using the valid credentials provided on the application.
+3. On the Products page, use JavaScript Executor to scroll to the bottom of the page.
+4. Take a screenshot of the page after scrolling.
+5. Save the screenshot with a meaningful name such as products-page.png.
+
+
+TestCase-2
+
+1. Navigate to Myntra application.
+2. Search for any product.
+3. Add the product to the wishlist.
+4. Verify whether it is added or not.
