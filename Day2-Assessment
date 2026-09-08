@@ -9,8 +9,8 @@
 1.Navigate to facebook application 
 2.capture the location of create new account button.
 3.Capture the Dom Attribute and dom property for email address textfield before and after entering email address
-4.click on create new account capture the size of sign up button
-5.capture the css properties of sign up button (minimum 3).
+4.click on create new account capture the size of submit button
+5.capture the css properties of submit button (minimum 3).
 
 //Testcase 3 
 
