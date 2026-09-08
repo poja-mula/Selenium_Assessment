@@ -16,7 +16,7 @@
 
 1.Navigate to demowebshop
 2.Identify the webelement(14.1-inch laptop)-->identify add to cart button capture the size and them click on the buuton.
-3.Click on shopping cart icon.
+3.Click on shopping cart link.
 4.verify remove check box is selected or not and capture the complete information using getRect().
 5.Verify Alert message is displayed or not before and after clicking on Apply coupon button
 6.Take screenshot of image(Laptop).
