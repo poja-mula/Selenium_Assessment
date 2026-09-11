@@ -1,0 +1,17 @@
+//Test- case  1 
+1.Navigate to DemoWebshop application 
+2.Click on login link .
+3.Enter email and password and click on login button by reading the data from property file.
+
+
+//Testcase 2 
+
+1.Navigate to orange Hrm application
+2.Enter the username password and click on login buuton
+by redaing the data from excel file.
+
+//Testcase 3 
+
+1.Navigate to Demoappsqspiders application
+2.Enter name, email,password and click on login  submit button
+3.Read the data from json file.
