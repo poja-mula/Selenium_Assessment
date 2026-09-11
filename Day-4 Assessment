@@ -1,0 +1,17 @@
+//Testcase 1 
+1.Navigate to zomato application
+2.click on Login link.
+3.HAndle the frame and enter the phone number in phone number textfield 
+4.Switch the control back to main page and verify switching.
+
+
+  //Testcase 2 
+  1.Navigate to facebook application 
+  2.Identify all the textfields present on the login page.
+  3.print the count of textfields and enter the text in any of the textfield.
+
+  //Test case 3 
+  1.Navigate to bigbasket application.
+  2.search for apples and add to the cart.
+  3.Verify the cart page.
+  
