@@ -1,0 +1,6 @@
+//Testcase
+
+Login to orangeHrm application ->click on Recruitment link -> click on + Add button -> enter firstname , middlename , lastname ,
+select any option for vacancy ,enter email, mobile number , upload file ,select date of application ->click on save button -> click on candidates ->
+select job title , select vacancy , select hiring manager ,select status , enter candidate name,select application date and click on search button -> 
+verify whether the employee is added from the records found section and logout.
