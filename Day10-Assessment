@@ -1,0 +1,22 @@
+//Testcase
+
+NAvigate to SauceDemo Application.
+Login using a valid username and password.
+Verify that the Products page is displayed.
+Add Sauce Labs Backpack to the cart.
+Verify that the cart contains 1 item.
+Open the cart.
+Verify that Sauce Labs Backpack is displayed.
+Click on  to checkout.
+Enter: Fisrt Name ,Last Name and postal code and click on continue.
+Verify that the Checkout: Overview page is displayed.
+Click Finish.
+Verify the message "Thank you for your order!".
+Close the browser.
+
+
+Note : Use Two test MEthods
+1.loginTest()
+2.oderPalcementTest()
+
+Maintain property file,Excel File,Pom Pages and Use TestNg annotations 
