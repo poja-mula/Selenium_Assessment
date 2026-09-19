@@ -1,0 +1,12 @@
+//TestCase  - 1
+
+Login to orangeHrm application ->click on Recruitment link ->click on vacancies link ->enter vacancy name ,
+select job title,add description , select hiring manager, number of positons-> 
+click on save button 
+//Testcase 2
+
+Login to orangeHrm application ->click on MyInfo link ->change employee first name, lastname ,employee id ->
+click on save->logut and then login again ->verify whether the edited details are updated-> logout
+
+
+------Use all  required frameWork concepts-----
